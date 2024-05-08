@@ -1,4 +1,4 @@
-# Machine Learning Terms
+# Machine Learning 
 
 ## Classification
 
