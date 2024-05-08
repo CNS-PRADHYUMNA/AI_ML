@@ -6,7 +6,8 @@ Classification is a fundamental task in supervised learning where the goal is to
 
 Example: An example of classification is email spam detection. Given a set of emails labeled as spam or not spam, a classification algorithm learns from these examples to classify new incoming emails into either spam or not spam categories.
 
-[Classification-of-ML-DL-algorithms-DL-is-a-subset-of-ML-based-on-ANN-and-can-be-applied](https://github.com/CNS-PRADHYUMNA/AI_ML/assets/152390152/4125b690-4b88-41a1-9c29-afe76807b006)
+![328845040-4125b690-4b88-41a1-9c29-afe76807b006](https://github.com/CNS-PRADHYUMNA/AI_ML/assets/152390152/6c70e3db-a105-4af1-9b52-710752698b7f)
+
 
 
 ## Clustering
